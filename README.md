@@ -1,2 +1,2 @@
 # Python_Sandbox
-Repo for Miscellaneous Attempts
+Repo for miscellaneous Python/Pandas files ... of no use to any experienced programmer!
