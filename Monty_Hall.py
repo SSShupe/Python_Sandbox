@@ -3,6 +3,9 @@
 Created on Sat Mar  9 09:41:33 2019
 
 @author: Steve Shupe
+
+Following the outline at
+https://github.com/cs109/content/blob/master/HW0.ipynb
 """
 import numpy as np
 import random
